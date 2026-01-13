@@ -1,0 +1,3 @@
+[2026-01-13 07:16:08,918] INFO - Starting Data Ingestion
+[2026-01-13 07:16:09,976] INFO - Performed train test split on the dataframe
+[2026-01-13 07:16:09,976] INFO - Exited split_data_as_train_test method of Data_Ingestion class
