@@ -1,0 +1,14 @@
+[2026-01-14 07:31:50,592] INFO - Starting Data Ingestion
+[2026-01-14 07:31:51,704] INFO - Performed train test split on the dataframe
+[2026-01-14 07:31:51,704] INFO - Exited split_data_as_train_test method of Data_Ingestion class
+[2026-01-14 07:31:51,704] INFO - Exporting train and test file path.
+[2026-01-14 07:31:51,735] INFO - Exported train and test file path.
+[2026-01-14 07:31:51,735] INFO - Data Ingestion Completed
+[2026-01-14 07:31:51,737] INFO - Starting Data Validation
+[2026-01-14 07:31:51,737] INFO - Starting Data Validation
+[2026-01-14 07:31:51,747] INFO - Required number of columns: 31
+[2026-01-14 07:31:51,747] INFO - Dataframe has columns: 31
+[2026-01-14 07:31:51,747] INFO - Required number of columns: 31
+[2026-01-14 07:31:51,747] INFO - Dataframe has columns: 31
+[2026-01-14 07:31:51,820] INFO - Data Validation Completed
+[2026-01-14 07:31:51,821] INFO - Data Validation Completed

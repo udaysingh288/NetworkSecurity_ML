@@ -13,6 +13,8 @@ FILE_NAME:str = "phishing_data.csv"
 TRAIN_FILE_NAME:str = "train.csv"
 TEST_FILE_NAME:str = "test.csv"
 
+SCHEMA_FILE_PATH:str = os.path.join("data_schema","schema.yml")
+
 """Data ingestion related constatnts start with 
 DATA_INGESTION VAR NAME"""
 

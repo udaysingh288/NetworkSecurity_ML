@@ -1,0 +1,124 @@
+Abnormal_URL:
+  d_statistic: 0.0035052012663952963
+  p_value: 1.0
+  same_distribution: true
+DNSRecord:
+  d_statistic: 0.019448213478064226
+  p_value: 0.5115314028162039
+  same_distribution: true
+Domain_registeration_length:
+  d_statistic: 0.008028041610131162
+  p_value: 0.9998299425911609
+  same_distribution: true
+Favicon:
+  d_statistic: 0.005879692446856626
+  p_value: 0.9999999750532348
+  same_distribution: true
+Google_Index:
+  d_statistic: 0.012890094979647219
+  p_value: 0.928294204054473
+  same_distribution: true
+HTTPS_token:
+  d_statistic: 0.0012437810945273632
+  p_value: 1.0
+  same_distribution: true
+Iframe:
+  d_statistic: 0.0009045680687471732
+  p_value: 1.0
+  same_distribution: true
+Links_in_tags:
+  d_statistic: 0.009611035730438715
+  p_value: 0.9964705532516113
+  same_distribution: true
+Links_pointing_to_page:
+  d_statistic: 0.010628674807779286
+  p_value: 0.9876237011526984
+  same_distribution: true
+Page_Rank:
+  d_statistic: 0.012890094979647219
+  p_value: 0.928294204054473
+  same_distribution: true
+Prefix_Suffix:
+  d_statistic: 0.002261420171867933
+  p_value: 1.0
+  same_distribution: true
+Redirect:
+  d_statistic: 0.016508367254635913
+  p_value: 0.7168453975391859
+  same_distribution: true
+Request_URL:
+  d_statistic: 0.002261420171867933
+  p_value: 1.0
+  same_distribution: true
+Result:
+  d_statistic: 0.0065581184984170055
+  p_value: 0.9999989383967115
+  same_distribution: true
+RightClick:
+  d_statistic: 0.005201266395296246
+  p_value: 0.9999999998789996
+  same_distribution: true
+SFH:
+  d_statistic: 0.007914970601537766
+  p_value: 0.9998728965778992
+  same_distribution: true
+SSLfinal_State:
+  d_statistic: 0.012098597919493442
+  p_value: 0.9563660841655501
+  same_distribution: true
+Shortining_Service:
+  d_statistic: 0.014812302125734962
+  p_value: 0.8291361447554398
+  same_distribution: true
+Statistical_report:
+  d_statistic: 0.013003165988240615
+  p_value: 0.9236254567999284
+  same_distribution: true
+Submitting_to_email:
+  d_statistic: 0.004070556309362279
+  p_value: 1.0
+  same_distribution: true
+URL_Length:
+  d_statistic: 0.005653550429669833
+  p_value: 0.9999999947754254
+  same_distribution: true
+URL_of_Anchor:
+  d_statistic: 0.012777023971053823
+  p_value: 0.9328006214323754
+  same_distribution: true
+age_of_domain:
+  d_statistic: 0.011194029850746268
+  p_value: 0.9786058095826133
+  same_distribution: true
+double_slash_redirecting:
+  d_statistic: 0.008593396653098146
+  p_value: 0.9993864328065777
+  same_distribution: true
+having_At_Symbol:
+  d_statistic: 0.009045680687471733
+  p_value: 0.9985597993583677
+  same_distribution: true
+having_IP_Address:
+  d_statistic: 0.009271822704658525
+  p_value: 0.9978960688614555
+  same_distribution: true
+having_Sub_Domain:
+  d_statistic: 0.01922207146087743
+  p_value: 0.5267304130409213
+  same_distribution: true
+on_mouseover:
+  d_statistic: 0.005653550429669833
+  p_value: 0.9999999947754254
+  same_distribution: true
+popUpWidnow:
+  d_statistic: 0.0014699231117141565
+  p_value: 1.0
+  same_distribution: true
+port:
+  d_statistic: 0.0037313432835820895
+  p_value: 1.0
+  same_distribution: true
+web_traffic:
+  d_statistic: 0.009611035730438715
+  p_value: 0.9964705532516113
+  same_distribution: true
